@@ -20,7 +20,7 @@
 
 **OpenClaw**:
 ```bash
-git clone https://github.com/你的用户名/weekly-report-generator.git ~/.openclaw/workspace/skills/weekly-report-generator
+git clone https://github.com/liwei-xyz/weekly-report-generator.git ~/.openclaw/workspace/skills/weekly-report-generator
 ```
 
 **Claude Code**:
@@ -28,15 +28,26 @@ git clone https://github.com/你的用户名/weekly-report-generator.git ~/.open
 git clone https://github.com/你的用户名/weekly-report-generator.git ~/.claude/skills/weekly-report-generator
 ```
 
-### 使用
+---
 
-1. 对 AI 说：**「写周报」**
-2. 首次使用会引导你完成 3 个简单问题：
-   - 所在行业
-   - 工作职责
-   - 关注重点
-3. 选择自动获取（读取对话历史/日记）或手动输入工作内容
-4. 生成周报并收集反馈
+## 🚀 安装后第一步
+
+**安装完成后，请立即对我说：「写周报」**
+
+我会引导你完成 3 个简单问题（1 分钟搞定）：
+1. 所在行业
+2. 工作职责
+3. 关注重点
+
+配置完成后，以后每次说「写周报」就能自动生成！
+
+---
+
+## 📋 使用流程
+
+1. **首次使用**：说「写周报」→ 完成 Onboarding 配置
+2. **以后每次**：说「写周报」→ 自动生成周报
+3. **修改配置**：随时说「改成 Markdown 格式」等
 
 ---
 

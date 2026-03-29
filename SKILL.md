@@ -3,10 +3,9 @@ name: weekly-report-generator
 description: 根据本周对话历史生成向上汇报的周报。支持多行业模板，首次使用自动 onboarding。触发词："生成本周周报"、"写周报"、"周报"。
 author: dan
 license: MIT
-version: 2.0
 ---
 
-# Skill: weekly-report-generator v2
+# Skill: weekly-report-generator
 
 ## 1. 概述 (Overview)
 
@@ -439,6 +438,8 @@ EOF
   }
 }
 ```
+
+**设计说明**：反馈收集是独立设计，用于持续优化周报生成质量。
 
 ---
 

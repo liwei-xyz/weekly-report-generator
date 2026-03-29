@@ -1,6 +1,6 @@
 # 职场周报生成器 (Weekly Report Generator)
 
-> 🦐 帮你把本周工作整理成一份结构清晰、内容扎实的向上汇报周报
+> 帮你把本周工作整理成一份结构清晰、内容扎实的向上汇报周报
 
 ---
 
@@ -8,7 +8,7 @@
 
 - **多行业模板**：支持技术研发、产品经理、运营/市场、销售/商务、设计/创意、通用 6 种行业模板
 - **智能 Onboarding**：首次使用自动收集用户信息，生成个性化周报
-- **反馈收集**：参考 follow-builders 风格，每次生成后收集反馈优化
+- **反馈收集**：每次生成后主动收集反馈，持续优化周报质量
 - **多格式输出**：纯文本（兼容邮件/飞书/微信）、Markdown（适合 Obsidian/Notion）、飞书文档
 - **默认配置**：汇报对象默认直属上级，输出格式默认纯文本，可随时修改
 
@@ -229,9 +229,7 @@ MIT License
 
 - [OpenClaw 文档](https://docs.openclaw.ai)
 - [ClawHub 技能市场](https://clawhub.com)
-- [Follow Builders](https://github.com/zarazhangrui/follow-builders)
 
 ---
 
-**最后更新**：2026-03-29  
-**版本**：v2.0
+**最后更新**：2026-03-29
